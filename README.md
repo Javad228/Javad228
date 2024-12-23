@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javad Baghirov</h1>
 <h3 align="center">University of Maryland Master's student and Purdue graduate with experience in web and mobile app development.</h3>
 
-- 🔭 I’m currently working on [Google Photorealistic 3D Maps Hackathon](https://github.com/Javad228/Google-Hackathon)
+- 🔭 I’m currently working on AWS Game Builder Challenge
 
 - 👨‍💻 All of my projects are available at [https://www.javadbaghirov.com/](https://www.javadbaghirov.com/)
 
